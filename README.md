@@ -1,0 +1,1 @@
+rsc to get skeleton
